@@ -6,5 +6,5 @@
 <a href="https://github.com/brentgarren/WebHacking/blob/main/README.md">Webhacking w/ no scripts or tools</a>
 
 # Enumeration
-<a href="https://github.com/brentgarren/Content-Discovery/tree/main">Subdomain Enumeration</a><br>
+<a href="https://github.com/brentgarren/Subdomain-Enumeration">Subdomain Enumeration</a><br>
 <a href="https://github.com/brentgarren/Enumerating-SMB">Simple Message Block Exploiting</a>
